@@ -1,0 +1,12 @@
+{ "Title": "George Otieno 	", "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis ad unde, quas. Autem magnam, ratione dolore illum quo", "Keywords": "Search, Engine, trial", "URL": "http://og.dev", "ImageAlt": "", "ImageSrc": ""},
+{ "Title": "George Otieno 	", "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis ad unde, quas. Autem magnam, ratione dolore illum quo", "Keywords": "Search, Engine, trial", "URL": "http://og.dev/blog", "ImageAlt": "", "ImageSrc": ""},
+{ "Title": "George Otieno 	", "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis ad unde, quas. Autem magnam, ratione dolore illum quo", "Keywords": "Search, Engine, trial", "URL": "http://og.dev/work", "ImageAlt": "", "ImageSrc": ""},
+{ "Title": "George Otieno 	", "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis ad unde, quas. Autem magnam, ratione dolore illum quo", "Keywords": "Search, Engine, trial", "URL": "http://og.dev/resume", "ImageAlt": "", "ImageSrc": ""},
+{ "Title": "George Otieno 	", "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis ad unde, quas. Autem magnam, ratione dolore illum quo", "Keywords": "Search, Engine, trial", "URL": "#contact", "ImageAlt": "", "ImageSrc": ""},
+{ "Title": "George Otieno 	", "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis ad unde, quas. Autem magnam, ratione dolore illum quo", "Keywords": "Search, Engine, trial", "URL": "#", "ImageAlt": "", "ImageSrc": ""},
+
+Notice: Undefined property: DOMElement::$length in D:\DEV\spider\app\Spider.php on line 102
+{ "Title": "George Otieno - Blog", "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis ad unde, quas. Autem magnam, ratione dolore illum quo", "Keywords": "Search, Engine, trial", "URL": "http://og.dev/blog/giving-back-to-the-community", "ImageAlt": "", "ImageSrc": "/storage/bl_idx15984755a7f67d.jpg"},
+
+Notice: Undefined property: DOMElement::$length in D:\DEV\spider\app\Spider.php on line 102
+{ "Title": "George Otieno - Blog", "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis ad unde, quas. Autem magnam, ratione dolore illum quo", "Keywords": "Search, Engine, trial", "URL": "http://og.dev/blog/this-is-another-post", "ImageAlt": "", "ImageSrc": "/storage/bl_idx15984755a7f67d.jpg"},
